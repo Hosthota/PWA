@@ -1,6 +1,6 @@
 {
-    "name": "Vaish Chocolates",
-    "short_name": "vaishchocolates",
+    "name": "Progressive web app",
+    "short_name": "PWA",
 	  "icons": [
     {
       "src": "/images/icons/index.png",
